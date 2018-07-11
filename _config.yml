@@ -1,0 +1,53 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "David Howell"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/dehowell\">@dehowell on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/dehowell\">@dehowell on Micro.blog</a>."
+baseurl: ""
+url: "https://dehowell.micro.blog"
+markdown: "kramdown"
+username: "dehowell"
+microblog_user: "dehowell"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "David Howell"
+name: "David Howell"
+gravatar_hash: "bb6e3828a91b0cf7f742fe5ba0c3c678"
+avatar: "https://micro.blog/dehowell/avatar.jpg"
+full_name: "David Howell"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "1336"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "David Howell"
