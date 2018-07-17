@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/07/17/recommended-reading-for.html",
+	      	
+			"content_html": "<p>Recommended reading for today: Venkatesh Rao’s <a href=\"http://eepurl.com/dA6UJj\">“The Zeroth Mile”</a> makes the case for becoming “anthropocene literate”, to open our attention to how our lives are grounded in streams of resources and waste.</p>\n",
+			"date_published": "2018-07-17T08:14:14-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/17/recommended-reading-for.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/15/i-consolidated-my.html",
 	      	
-			"content_html": "<p>I consolidated my unread books on one shelf, per Farnam Street](https://fs.blog/2013/06/the-antilibrary/). Most of these were acquired by impulse - now it’s time to stew on the whole thing and see if I can retcon a theme. 📚</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/be4300c2a5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>I consolidated my unread books on one shelf, <a href=\"https://fs.blog/2013/06/the-antilibrary/\">per Farnam Street</a>. Most of these were acquired by impulse - now it’s time to stew on the whole thing and see if I can retcon a theme. 📚</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/be4300c2a5.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-15T06:33:20-04:00",
 			"url": "https://dehowell.micro.blog/2018/07/15/i-consolidated-my.html"
 		},
@@ -197,14 +205,6 @@
 			"content_html": "<p>If I understand Markov chain Monte Carlo methods correctly, they tell us – given a plausible model of the world – what values of parameters produce the greatest number of histories compatible with what actually happened?</p>\n",
 			"date_published": "2018-05-09T05:54:15-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/09/if-i-understand.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/08/different-communities-of.html",
-	      	
-			"content_html": "<p>Different communities of practice use different ways of saying similar things. To cultivate better <em>listening</em>, unpack the assumptions behind the words rather than interpreting the words in your pre-existing frame of reference.</p>\n",
-			"date_published": "2018-05-08T05:44:03-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/08/different-communities-of.html"
 		}
 		
 	]
