@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/07/22/just-nuked-my.html",
+	      	
+			"content_html": "<p>Just nuked my Amazon wishlist from orbit, after realizing that it represented a <strong>decade</strong> of reading. Time to take a deep breath and get more deliberate about this.</p>\n\n<p>📚</p>\n",
+			"date_published": "2018-07-22T07:11:54-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/22/just-nuked-my.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/21/i-came-across.html",
 	      	
 			"content_html": "<p>I came across <a href=\"https://micro.blog/ayjay\">@ayjay</a>’s post <a href=\"http://text-patterns.thenewatlantis.com/2017/06/in-responsibilities-begin-dreams.html\">“in responsibility begin dreams”</a>, which earned a spot on the cork board by my desk.</p>\n\n<blockquote>\n  <p>Everything has been tried and found wanting, and found difficult and left untried. This is the human condition.</p>\n</blockquote>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/13d3360191.jpg\" width=\"600\" height=\"364\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>What I’ve learned today: the price elasticity of demand is a measure of how demand for a good changes in response to changes in its price. A Veblen good is one where demand goes up as the price increases, because signalling that you can afford it is the point.</p>\n",
 			"date_published": "2018-05-11T12:51:12-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/11/what-ive-learned.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/10/i-reserved-a.html",
-	      	
-			"content_html": "<p>I reserved a username with the <a href=\"https://eco.com\">Eco currency</a> today. After reading the <a href=\"https://eco.com/eco-design-proposal-v1.pdf\">design proposal</a>, it seems like the first cryptocurrency open to the existing value in institutional trust. It probably looks like a waste of time to purists – and that is why I’m interested.</p>\n",
-			"date_published": "2018-05-10T05:29:04-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/10/i-reserved-a.html"
 		}
 		
 	]
