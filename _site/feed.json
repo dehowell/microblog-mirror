@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/07/24/my-dentist-moved.html",
+	      	
+			"content_html": "<p>My dentist moved next door to my <a href=\"https://www.phoenixbooks.biz/about\">favorite local book store</a>, so <em>of course</em> I dropped in and bought books two and three of the <em>Binti</em> series. I started in on <em>Binti: Home</em> more or less immediately.</p>\n\n<p>📚</p>\n\n",
+			"date_published": "2018-07-24T04:57:46-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/24/my-dentist-moved.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/22/just-nuked-my.html",
 	      	
 			"content_html": "<p>Just nuked my Amazon wishlist from orbit, after realizing that it represented a <strong>decade</strong> of reading. Time to take a deep breath and get more deliberate about this.</p>\n\n<p>📚</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I love Low-Tech Magazine for looking at technologies <a href=\"http://www.lowtechmagazine.com/2018/01/bedazzled-by-energy-efficiency.html\">not in terms of efficiency</a>, but in terms of the <em>services</em> the technologies provide. “Efficient” implies only one direction for progress, but there are also gains in <a href=\"http://www.lowtechmagazine.com/2015/10/can-the-internet-run-on-renewable-energy.html\">giving up net-harmful services</a>.</p>\n",
 			"date_published": "2018-05-12T07:50:06-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/12/i-love-lowtech.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/11/what-ive-learned.html",
-	      	
-			"content_html": "<p>What I’ve learned today: the price elasticity of demand is a measure of how demand for a good changes in response to changes in its price. A Veblen good is one where demand goes up as the price increases, because signalling that you can afford it is the point.</p>\n",
-			"date_published": "2018-05-11T12:51:12-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/11/what-ive-learned.html"
 		}
 		
 	]
