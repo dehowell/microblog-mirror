@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/07/25/two-articles-i.html",
+	      	
+			"content_html": "<p>Two articles I read today have me thinking about how a 9-5 job disrupts valuable human rhythms:</p>\n\n<ul>\n  <li>No Tech Magazine <a href=\"http://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html\">describes tending to fermentation projects</a> in the kitchen as you pass through.</li>\n  <li>The New York Times covers <a href=\"https://www.nytimes.com/2018/07/24/well/when-we-eat-or-dont-eat-may-be-critical-for-health.html\">timing meals with your circadian rhythm, in an 8-10 hours window.</a></li>\n</ul>\n",
+			"date_published": "2018-07-25T19:06:50-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/25/two-articles-i.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/24/my-dentist-moved.html",
 	      	
 			"content_html": "<p>My dentist moved next door to my <a href=\"https://www.phoenixbooks.biz/about\">favorite local book store</a>, so <em>of course</em> I dropped in and bought books two and three of the <em>Binti</em> series. I started in on <em>Binti: Home</em> more or less immediately.</p>\n\n<p>📚</p>\n\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>A day out in the sun, then putting my kid to bed… by the time 8 PM rolls around, I’m completely exhausted. This is why I wake up early for <em>me</em> time.</p>\n",
 			"date_published": "2018-05-13T19:58:51-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/13/a-day-out.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/12/i-love-lowtech.html",
-	      	
-			"content_html": "<p>I love Low-Tech Magazine for looking at technologies <a href=\"http://www.lowtechmagazine.com/2018/01/bedazzled-by-energy-efficiency.html\">not in terms of efficiency</a>, but in terms of the <em>services</em> the technologies provide. “Efficient” implies only one direction for progress, but there are also gains in <a href=\"http://www.lowtechmagazine.com/2015/10/can-the-internet-run-on-renewable-energy.html\">giving up net-harmful services</a>.</p>\n",
-			"date_published": "2018-05-12T07:50:06-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/12/i-love-lowtech.html"
 		}
 		
 	]
