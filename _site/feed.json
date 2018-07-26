@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/07/26/whats-on-your.html",
+	      	
+			"title": "What's on your patronage list?",
+			
+			"content_html": "<p>After reading <a href=\"https://kottke.org/17/12/unlocking-the-commons-or-the-psychoeconomics-of-patronage\">Tim Carmody on patronage</a> last year, I am increasingly signing up to support things I love financially. Right now:</p>\n\n<ul>\n  <li>Aeon.co</li>\n  <li>MetaFilter</li>\n  <li>The Partially-Examined Life</li>\n  <li>Do By Friday</li>\n</ul>\n",
+			"date_published": "2018-07-26T11:55:29-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/26/whats-on-your.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/25/two-articles-i.html",
 	      	
 			"content_html": "<p>Two articles I read today have me thinking about how a 9-5 job disrupts valuable human rhythms:</p>\n\n<ul>\n  <li>No Tech Magazine <a href=\"http://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html\">describes tending to fermentation projects</a> in the kitchen as you pass through.</li>\n  <li>The New York Times covers <a href=\"https://www.nytimes.com/2018/07/24/well/when-we-eat-or-dont-eat-may-be-critical-for-health.html\">timing meals with your circadian rhythm, in an 8-10 hours window.</a></li>\n</ul>\n",
@@ -197,14 +207,6 @@
 			"content_html": "<p>Spreadsheets and scripting languages are optimized for helping a person interactively make sense of a mess – and most of our problems are messes. “Real software” should grow out of the knowledge gained by schlepping through a mess.</p>\n",
 			"date_published": "2018-05-14T05:58:41-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/14/spreadsheets-and-scripting.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/13/a-day-out.html",
-	      	
-			"content_html": "<p>A day out in the sun, then putting my kid to bed… by the time 8 PM rolls around, I’m completely exhausted. This is why I wake up early for <em>me</em> time.</p>\n",
-			"date_published": "2018-05-13T19:58:51-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/13/a-day-out.html"
 		}
 		
 	]
