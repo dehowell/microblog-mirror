@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/07/29/i-finished-martha.html",
+	      	
+			"content_html": "<p>I finished Martha Nussbaum’s <em>The Therapy of Desire</em> yesterday, which was an extraordinarily clear exposition of Aristotelian, Epicurean, Skeptical, and Stoic ethics. What a writer!</p>\n",
+			"date_published": "2018-07-29T17:06:22-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/29/i-finished-martha.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/26/whats-on-your.html",
 	      	
 			"title": "What's on your patronage list?",
@@ -199,14 +207,6 @@
 			"content_html": "<p>In <em>Conversational Design</em>, Erika Hall frames software as one venue for a customer to engage in <em>conversation</em> with a company providing them with a service. The software should reflect any context the customer shared with a human representative… and vice versa.</p>\n",
 			"date_published": "2018-05-15T08:35:14-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/15/in-conversational-design.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/14/spreadsheets-and-scripting.html",
-	      	
-			"content_html": "<p>Spreadsheets and scripting languages are optimized for helping a person interactively make sense of a mess – and most of our problems are messes. “Real software” should grow out of the knowledge gained by schlepping through a mess.</p>\n",
-			"date_published": "2018-05-14T05:58:41-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/14/spreadsheets-and-scripting.html"
 		}
 		
 	]
