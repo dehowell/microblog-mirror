@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-order: 0
+order: -1
 ---
 I lead software engineering teams, scribble in notebooks, and try to keep moving.
 
