@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/07/31/im-seeing-commercials.html",
+	      	
+			"content_html": "<p>I’m seeing commercials and TV new for the first time in months. Every time it’s a shock how awful it is.</p>\n",
+			"date_published": "2018-07-31T16:30:00-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/31/im-seeing-commercials.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/29/i-finished-martha.html",
 	      	
 			"content_html": "<p>I finished Martha Nussbaum’s <em>The Therapy of Desire</em> yesterday, which was an extraordinarily clear exposition of Aristotelian, Epicurean, Skeptical, and Stoic ethics. What a writer!</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I suspect that amateur developers have an easier time of building automation on iOS, in AppleScript, and similar, due to not knowing how comparatively <em>bad</em> the toolchain and development environments are. I love Drafts, for example, but the feedback loop when testing is <em>slow</em>.</p>\n",
 			"date_published": "2018-05-16T11:38:07-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/16/i-suspect-that.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/15/in-conversational-design.html",
-	      	
-			"content_html": "<p>In <em>Conversational Design</em>, Erika Hall frames software as one venue for a customer to engage in <em>conversation</em> with a company providing them with a service. The software should reflect any context the customer shared with a human representative… and vice versa.</p>\n",
-			"date_published": "2018-05-15T08:35:14-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/15/in-conversational-design.html"
 		}
 		
 	]
