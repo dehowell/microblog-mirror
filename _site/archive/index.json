@@ -1,0 +1,333 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "David Howell",
+	"home_page_url": "https://dehowell.micro.blog/",
+	"feed_url": "https://dehowell.micro.blog/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/31/im-seeing-commercials.html",
+	      	
+			"content_text": "I’m seeing commercials and TV new for the first time...",
+			"date_published": "2018-07-31T16:30:00-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/31/im-seeing-commercials.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/29/i-finished-martha.html",
+	      	
+			"content_text": "I finished Martha Nussbaum’s The Therapy of Desire yesterday, which...",
+			"date_published": "2018-07-29T17:06:22-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/29/i-finished-martha.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/26/whats-on-your.html",
+	      	
+			"title": "What's on your patronage list?",
+			
+			"content_text": "After reading Tim Carmody on patronage last year, I am...",
+			"date_published": "2018-07-26T11:55:29-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/26/whats-on-your.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/25/two-articles-i.html",
+	      	
+			"content_text": "Two articles I read today have me thinking about how...",
+			"date_published": "2018-07-25T19:06:50-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/25/two-articles-i.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/24/my-dentist-moved.html",
+	      	
+			"content_text": "My dentist moved next door to my favorite local book...",
+			"date_published": "2018-07-24T04:57:46-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/24/my-dentist-moved.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/22/just-nuked-my.html",
+	      	
+			"content_text": "Just nuked my Amazon wishlist from orbit, after realizing that...",
+			"date_published": "2018-07-22T07:11:54-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/22/just-nuked-my.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/21/i-came-across.html",
+	      	
+			"content_text": "I came across @ayjay’s post “in responsibility begin dreams”, which...",
+			"date_published": "2018-07-21T07:45:10-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/21/i-came-across.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/17/recommended-reading-for.html",
+	      	
+			"content_text": "Recommended reading for today: Venkatesh Rao’s “The Zeroth Mile” makes...",
+			"date_published": "2018-07-17T08:14:14-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/17/recommended-reading-for.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/15/i-consolidated-my.html",
+	      	
+			"content_text": "I consolidated my unread books on one shelf, per Farnam...",
+			"date_published": "2018-07-15T06:33:20-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/15/i-consolidated-my.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/10/i-started-the.html",
+	      	
+			"content_text": "I started the Farnam Street course “The Art of Reading”...",
+			"date_published": "2018-07-10T15:30:17-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/10/i-started-the.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/10/just-learned-that.html",
+	      	
+			"content_text": "Just learned that micro.blog can mirror your content to a...",
+			"date_published": "2018-07-10T11:52:42-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/10/just-learned-that.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/08/maybe-mechanical-keyboard.html",
+	      	
+			"content_text": "Maybe mechanical keyboard fans just need to work on their...",
+			"date_published": "2018-07-08T09:26:33-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/08/maybe-mechanical-keyboard.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/08/for-your-sunday.html",
+	      	
+			"content_text": "For your Sunday, set aside 25 minutes and watch/listen to...",
+			"date_published": "2018-07-08T08:12:51-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/08/for-your-sunday.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/04/tell-it-to.html",
+	      	
+			"title": "Tell It To Your Robot Bird Friend",
+			
+			"content_text": "My son calls our grill his “robot bird friend”. If...",
+			"date_published": "2018-07-04T17:24:20-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/04/tell-it-to.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/07/04/my-independence-day.html",
+	      	
+			"content_text": "My Independence Day plans: Continue reading The Monarchy of Fear,...",
+			"date_published": "2018-07-04T12:07:53-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/04/my-independence-day.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/06/30/the-wsj-snarked.html",
+	      	
+			"content_text": "The WSJ snarked on people who use quantified self to...",
+			"date_published": "2018-06-30T04:49:22-04:00",
+			"url": "https://dehowell.micro.blog/2018/06/30/the-wsj-snarked.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/06/13/i-was-interviewed.html",
+	      	
+			"content_text": "I was interviewed for (but not quoted in) a WSJ...",
+			"date_published": "2018-06-13T05:35:17-04:00",
+			"url": "https://dehowell.micro.blog/2018/06/13/i-was-interviewed.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/06/01/im-feeling-torn.html",
+	      	
+			"content_text": "I’m feeling torn between micro.blog and Mastodon as a Twitter...",
+			"date_published": "2018-05-31T20:39:08-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/31/im-feeling-torn.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/29/i-initially-found.html",
+	      	
+			"content_text": "I initially found tweetstorms irritating as hell, but I’m now...",
+			"date_published": "2018-05-29T06:05:10-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/29/i-initially-found.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/24/thank-you-for.html",
+	      	
+			"content_text": "Thank you for “How to keep going”, Austin Kleon… just...",
+			"date_published": "2018-05-24T06:06:30-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/24/thank-you-for.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/21/im-making-an.html",
+	      	
+			"content_text": "I’m making an Electron app to visualize the network structure...",
+			"date_published": "2018-05-20T20:56:01-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/20/im-making-an.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/19/today-i-dedicate.html",
+	      	
+			"content_text": "Today, I dedicate myself to developing the Excellence of screen...",
+			"date_published": "2018-05-19T07:55:18-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/19/today-i-dedicate.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/18/my-favorite-part.html",
+	      	
+			"content_text": "My favorite part of Instapapering an article from a LinkedIn...",
+			"date_published": "2018-05-18T08:49:44-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/18/my-favorite-part.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html",
+	      	
+			"content_text": "I love @robinsloan’s take on the game Fortnite &amp; taking...",
+			"date_published": "2018-05-17T06:44:09-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/16/i-suspect-that.html",
+	      	
+			"content_text": "I suspect that amateur developers have an easier time of...",
+			"date_published": "2018-05-16T11:38:07-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/16/i-suspect-that.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/15/in-conversational-design.html",
+	      	
+			"content_text": "In Conversational Design, Erika Hall frames software as one venue...",
+			"date_published": "2018-05-15T08:35:14-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/15/in-conversational-design.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/14/spreadsheets-and-scripting.html",
+	      	
+			"content_text": "Spreadsheets and scripting languages are optimized for helping a person...",
+			"date_published": "2018-05-14T05:58:41-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/14/spreadsheets-and-scripting.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/13/a-day-out.html",
+	      	
+			"content_text": "A day out in the sun, then putting my kid...",
+			"date_published": "2018-05-13T19:58:51-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/13/a-day-out.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/12/i-love-lowtech.html",
+	      	
+			"content_text": "I love Low-Tech Magazine for looking at technologies not in...",
+			"date_published": "2018-05-12T07:50:06-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/12/i-love-lowtech.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/11/what-ive-learned.html",
+	      	
+			"content_text": "What I’ve learned today: the price elasticity of demand is...",
+			"date_published": "2018-05-11T12:51:12-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/11/what-ive-learned.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/10/i-reserved-a.html",
+	      	
+			"content_text": "I reserved a username with the Eco currency today. After...",
+			"date_published": "2018-05-10T05:29:04-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/10/i-reserved-a.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/09/if-i-understand.html",
+	      	
+			"content_text": "If I understand Markov chain Monte Carlo methods correctly, they...",
+			"date_published": "2018-05-09T05:54:15-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/09/if-i-understand.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/08/different-communities-of.html",
+	      	
+			"content_text": "Different communities of practice use different ways of saying similar...",
+			"date_published": "2018-05-08T05:44:03-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/08/different-communities-of.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/07/an-echo-chamber.html",
+	      	
+			"content_text": "An “echo chamber” forms from weaponizing ad hominem attacks, as...",
+			"date_published": "2018-05-07T05:57:06-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/07/an-echo-chamber.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/06/ordered-my-first.html",
+	      	
+			"content_text": "Ordered my first issue of Mortise &amp; Tenon, not because...",
+			"date_published": "2018-05-06T15:45:21-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/06/ordered-my-first.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/05/software-developers-learn.html",
+	      	
+			"content_text": "Software developers learn to navigate by aesthetics as a proxy...",
+			"date_published": "2018-05-05T05:31:45-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/05/software-developers-learn.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/04/in-person-the.html",
+	      	
+			"content_text": "In person, the involuntary body language of peers does at...",
+			"date_published": "2018-05-04T06:32:17-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/04/in-person-the.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/02/sarah-mei-addressed.html",
+	      	
+			"content_text": "Sarah Mei addressed how pair programming and dogmatic adherence to...",
+			"date_published": "2018-05-02T05:43:17-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/02/sarah-mei-addressed.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/05/01/100024.html",
+	      	
+			"content_text": "Craig Mod: I’ve come to think of tools as granters...",
+			"date_published": "2018-05-01T06:00:24-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/01/100024.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2017/05/01/when-you-build.html",
+	      	
+			"content_text": "“when you build a thing [you] must also repair the...",
+			"date_published": "2017-05-01T18:52:14-04:00",
+			"url": "https://dehowell.micro.blog/2017/05/01/when-you-build.html"
+		}
+		
+	]
+}
