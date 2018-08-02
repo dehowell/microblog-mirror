@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/08/02/i-think-its.html",
+	      	
+			"content_html": "<p>I think it’s time, on this visit to my parents house, to admit that reading these Reader’s Digest summaries in the bathroom as a teenager is probably my biggest intellectual influence.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/03d3eec51c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-02T08:32:59-04:00",
+			"url": "https://dehowell.micro.blog/2018/08/02/i-think-its.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/07/31/im-seeing-commercials.html",
 	      	
 			"content_html": "<p>I’m seeing commercials and TV new for the first time in months. Every time it’s a shock how awful it is.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I love @robinsloan’s <a href=\"theatln.tc/2KaKxIQ\">take on the game Fortnite &amp; taking a chance on cooperation in a zero-sum space</a>.</p>\n\n<p>Reminds me of Cory Doctorow’s <a href=\"bit.ly/2rP9PVl\">“Weaponized Narrative”</a>: a gesture of cooperation opens a counternarrative to the battle royale.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/ff2eed5b6b.jpg\" width=\"433\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-17T06:44:09-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/16/i-suspect-that.html",
-	      	
-			"content_html": "<p>I suspect that amateur developers have an easier time of building automation on iOS, in AppleScript, and similar, due to not knowing how comparatively <em>bad</em> the toolchain and development environments are. I love Drafts, for example, but the feedback loop when testing is <em>slow</em>.</p>\n",
-			"date_published": "2018-05-16T11:38:07-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/16/i-suspect-that.html"
 		}
 		
 	]
