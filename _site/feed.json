@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/08/04/excellence-on-uncool.html",
+	      	
+			"title": "Excellence on Uncool Hardware",
+			
+			"content_html": "<p>What Nick Heer dubs <a href=\"https://pxlnv.com/blog/bullshit-web/\">“The Bullshit Web”</a> is already intolerable on carefullly-managed, developer class hardware. The web is barely functional on low-end machines. Try going to Staples and browsing the Dell website on a $300 laptop – it’s eye-opening.</p>\n\n<p>Some machines in that price class are better and <a href=\"https://thewirecutter.com/reviews/best-laptop-under-500/\">the savvy consumer can do alright with the Wirecutter’s help</a>. But it’s not uncommon for manufacturer’s to skimp on CPU and RAM in favor of irrelevant bells and whistles and I wouldn’t trust the sales staff at a big box retailer to steer a shopper in that right direction.</p>\n\n<p>The financial and technical bottleneck to having a good experience online is so much worse than you think. At least the websites for government agencies are stuck in fifteen-year old designs that will function well on cheap hardware.</p>\n\n<p>If you are a software developer and want your work to be an empowering and democratizing force, you need to be excellent on uncool hardware.</p>\n\n",
+			"date_published": "2018-08-04T06:04:46-04:00",
+			"url": "https://dehowell.micro.blog/2018/08/04/excellence-on-uncool.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/08/02/i-think-its.html",
 	      	
 			"content_html": "<p>I think it’s time, on this visit to my parents house, to admit that reading these Reader’s Digest summaries in the bathroom as a teenager is probably my biggest intellectual influence.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/03d3eec51c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -199,14 +209,6 @@
 			"content_html": "<p>My favorite part of Instapapering an article from a LinkedIn blog is having the number of recruiter notifications I’m currently ignoring memorialized in the title.</p>\n",
 			"date_published": "2018-05-18T08:49:44-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/18/my-favorite-part.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html",
-	      	
-			"content_html": "<p>I love @robinsloan’s <a href=\"theatln.tc/2KaKxIQ\">take on the game Fortnite &amp; taking a chance on cooperation in a zero-sum space</a>.</p>\n\n<p>Reminds me of Cory Doctorow’s <a href=\"bit.ly/2rP9PVl\">“Weaponized Narrative”</a>: a gesture of cooperation opens a counternarrative to the battle royale.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/ff2eed5b6b.jpg\" width=\"433\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-17T06:44:09-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html"
 		}
 		
 	]
