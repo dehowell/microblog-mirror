@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/08/05/lesson-also-not.html",
+	      	
+			"content_html": "<p>Lesson also not learned in 2018. 📚</p>\n\n<p><em>The Sciences of the Artificial</em>, Herbert Simon.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/0b099beda7.jpg\" width=\"600\" height=\"253\" /></p>\n",
+			"date_published": "2018-08-05T15:33:22-04:00",
+			"url": "https://dehowell.micro.blog/2018/08/05/lesson-also-not.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/08/05/what-use-is.html",
 	      	
 			"content_html": "<p>What use is a belief if you don’t operationalize it? Either you change your behavior, or the belief is decoration. As a man and a feminist, step one is to develop the procedure “notice dishes, then wash dishes”.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I’m making an Electron app to visualize the network structure of my Evernote corpus. It is not as interesting a graph as I had hoped!</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/5546dea8f0.jpg\" width=\"600\" height=\"480\" /></p>\n",
 			"date_published": "2018-05-20T20:56:01-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/20/im-making-an.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/19/today-i-dedicate.html",
-	      	
-			"content_html": "<p>Today, I dedicate myself to developing the Excellence of screen doors and plant hangers. I beseech you, Hephaestus, to guide my hands.</p>\n\n<p>(h/t Jo Walton and the <em>Thessaly</em> trilogy)</p>\n",
-			"date_published": "2018-05-19T07:55:18-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/19/today-i-dedicate.html"
 		}
 		
 	]
