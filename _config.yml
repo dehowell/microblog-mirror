@@ -48,7 +48,11 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "1336"
 gems: ["jekyll-paginate"]
+itunes_description: "I lead software engineering teams, scribble in notebooks, and try to keep moving.
+
+For more, see [howell.io](https://www.howell.io)."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "David Howell"
+itunes_email: ""
 podcast: false
