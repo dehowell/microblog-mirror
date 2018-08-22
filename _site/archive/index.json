@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/08/21/the-oreilly-programming.html",
+	      	
+			"content_text": "The O’Reilly programming newsletter just linked to an article about...",
+			"date_published": "2018-08-20T20:35:29-04:00",
+			"url": "https://dehowell.micro.blog/2018/08/20/the-oreilly-programming.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/08/05/lesson-also-not.html",
 	      	
 			"content_text": "Lesson also not learned in 2018. 📚 The Sciences of...",
