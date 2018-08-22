@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/08/21/the-oreilly-programming.html",
+	      	
+			"content_html": "<p>The O’Reilly programming newsletter just linked to an article about vim versus emacs. It’s 2018 – just say no to nerd shibboleths.</p>\n\n<p>Atom, Sublime Text and VS Code are all accessible to new users, just as productive, and their editing shortcuts work elsewhere in the OS.</p>\n",
+			"date_published": "2018-08-20T20:35:29-04:00",
+			"url": "https://dehowell.micro.blog/2018/08/20/the-oreilly-programming.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/08/05/lesson-also-not.html",
 	      	
 			"content_html": "<p>Lesson also not learned in 2018. 📚</p>\n\n<p><em>The Sciences of the Artificial</em>, Herbert Simon.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/0b099beda7.jpg\" width=\"600\" height=\"253\" /></p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Thank you for <a href=\"https://medium.com/@austinkleon/how-to-keep-going-c185496fd295\">“How to keep going”, Austin Kleon</a>… just what I needed this morning.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/2482b78054.jpg\" width=\"600\" height=\"492\" /></p>\n",
 			"date_published": "2018-05-24T06:06:30-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/24/thank-you-for.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/21/im-making-an.html",
-	      	
-			"content_html": "<p>I’m making an Electron app to visualize the network structure of my Evernote corpus. It is not as interesting a graph as I had hoped!</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/5546dea8f0.jpg\" width=\"600\" height=\"480\" /></p>\n",
-			"date_published": "2018-05-20T20:56:01-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/20/im-making-an.html"
 		}
 		
 	]
