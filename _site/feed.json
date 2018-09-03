@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/09/02/decided-to-break.html",
+	      	
+			"content_html": "<p>Decided to break down and recycle the boxes for our small appliances, dishes, etc., rather than hoarding them in anticipation of a future move.</p>\n\n<p>For a military kid, this is a big step!</p>\n",
+			"date_published": "2018-09-02T15:57:11-04:00",
+			"url": "https://dehowell.micro.blog/2018/09/02/decided-to-break.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/08/21/the-oreilly-programming.html",
 	      	
 			"content_html": "<p>The O’Reilly programming newsletter just linked to an article about vim versus emacs. It’s 2018 – just say no to nerd shibboleths.</p>\n\n<p>Atom, Sublime Text and VS Code are all accessible to new users, just as productive, and their editing shortcuts work elsewhere in the OS.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I initially found tweetstorms irritating as hell, but I’m now 100% on board. The format leads to amazing low-ceremony brain dumps from experts, like Sarah Taber on cattle feed and JIT supply chains:</p>\n\n<p><a href=\"https://twitter.com/SarahTaber_bww/status/1001172903403155456\">twitter.com/SarahTabe…</a></p>\n",
 			"date_published": "2018-05-29T06:05:10-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/29/i-initially-found.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/24/thank-you-for.html",
-	      	
-			"content_html": "<p>Thank you for <a href=\"https://medium.com/@austinkleon/how-to-keep-going-c185496fd295\">“How to keep going”, Austin Kleon</a>… just what I needed this morning.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/2482b78054.jpg\" width=\"600\" height=\"492\" /></p>\n",
-			"date_published": "2018-05-24T06:06:30-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/24/thank-you-for.html"
 		}
 		
 	]
