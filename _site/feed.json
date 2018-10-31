@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "David Howell",
+	"icon": "https://micro.blog/dehowell/avatar.jpg",
 	"home_page_url": "https://dehowell.micro.blog/",
 	"feed_url": "https://dehowell.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/10/31/while-i-heartily.html",
+	      	
+			"content_html": "<p>While I heartily endorse the (apparently) radical proposition that a business should focus its effort on <em>earning profit directly from its product</em> rather than from vague gambles on side-effects of future adoption, the <a href=\"[medium.com/@sexandst...](https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96)\">Zebras Unite manifesto</a> leaves me wondering where are the “zebra” companies they are contrasting to venture capital driven unicorns?</p>\n\n<p>Of course, I can think of lots of candidates (Basecamp, of course), but I’m surprised that the Zebras Unite website doesn’t have a list of <em>examples</em>.</p>\n\n",
+			"date_published": "2018-10-31T17:57:03-04:00",
+			"url": "https://dehowell.micro.blog/2018/10/31/while-i-heartily.html"
+		},
 		
 		{
 			"id": "http://dehowell.micro.blog/2018/09/02/decided-to-break.html",
@@ -201,14 +210,6 @@
 			"content_html": "<p>I’m feeling torn between micro.blog and Mastodon as a Twitter alternative. This is a nice, sunny place, but Mastodon feels like it might pick up more of the surreal humor culture of Twitter.</p>\n\n<p>Between Slack, Discourse, Micro.blog, and Mastodon, my social networks are fragmenting.</p>\n",
 			"date_published": "2018-05-31T20:39:08-04:00",
 			"url": "https://dehowell.micro.blog/2018/05/31/im-feeling-torn.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/05/29/i-initially-found.html",
-	      	
-			"content_html": "<p>I initially found tweetstorms irritating as hell, but I’m now 100% on board. The format leads to amazing low-ceremony brain dumps from experts, like Sarah Taber on cattle feed and JIT supply chains:</p>\n\n<p><a href=\"https://twitter.com/SarahTaber_bww/status/1001172903403155456\">twitter.com/SarahTabe…</a></p>\n",
-			"date_published": "2018-05-29T06:05:10-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/29/i-initially-found.html"
 		}
 		
 	]
