@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "David Howell",
+	"icon": "https://micro.blog/dehowell/avatar.jpg",
 	"home_page_url": "https://dehowell.micro.blog/",
 	"feed_url": "https://dehowell.micro.blog/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/10/31/while-i-heartily.html",
+	      	
+			"content_text": "While I heartily endorse the (apparently) radical proposition that a...",
+			"date_published": "2018-10-31T17:57:03-04:00",
+			"url": "https://dehowell.micro.blog/2018/10/31/while-i-heartily.html"
+		},
 		
 		{
 			"id": "http://dehowell.micro.blog/2018/09/02/decided-to-break.html",
