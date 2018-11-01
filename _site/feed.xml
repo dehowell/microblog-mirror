@@ -4,19 +4,29 @@
     <title>David Howell</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/dehowell&quot;&gt;@dehowell on Micro.blog&lt;/a&gt;.</description>
     <link>https://dehowell.micro.blog/</link>
-    <pubDate>Wed, 31 Oct 2018 17:57:11 -0400</pubDate>
-    <lastBuildDate>Wed, 31 Oct 2018 17:57:11 -0400</lastBuildDate>
+    <pubDate>Thu, 01 Nov 2018 15:38:05 -0400</pubDate>
+    <lastBuildDate>Thu, 01 Nov 2018 15:38:05 -0400</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;While I heartily endorse the (apparently) radical proposition that a business should focus its effort on &lt;em&gt;earning profit directly from its product&lt;/em&gt; rather than from vague gambles on side-effects of future adoption, the &lt;a href=&quot;[medium.com/@sexandst...](https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96)&quot;&gt;Zebras Unite manifesto&lt;/a&gt; leaves me wondering where are the “zebra” companies they are contrasting to venture capital driven unicorns?&lt;/p&gt;
+        <description>&lt;p&gt;I love Julia Evans’ 2018 Deconstruct talk &lt;a href=&quot;https://www.deconstructconf.com/2018/julia-evans-build-impossible-programs&quot;&gt;“build impossible programs”&lt;/a&gt;, where she tells the story of carving out time to build her Ruby profiler – despite lacking experience in Ruby internals, systems programming, and not working on nights and weekends. Along the way, she learned how to code in Rust, how to compile and unit test against a wide variety of Ruby versions, and how to carve out time for ambitious work using sabbaticals and fellowships.&lt;/p&gt;
+
+&lt;p&gt;Julia is one of my heroes, for her tremendous enthusiasm and gumption. She tackles hard problems in a spirit of chaotic fun and turns her learning into art and inspiration for others.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Nov 2018 15:37:57 -0400</pubDate>
+        <link>https://dehowell.micro.blog/2018/11/01/i-love-julia.html</link>
+        <guid isPermaLink="true">http://dehowell.micro.blog/2018/11/01/i-love-julia.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;While I heartily endorse the (apparently) radical proposition that a business should focus its effort on &lt;em&gt;earning profit directly from its product&lt;/em&gt; rather than from vague gambles on side-effects of future adoption, the &lt;a href=&quot;https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96&quot;&gt;Zebras Unite manifesto&lt;/a&gt; leaves me wondering where are the “zebra” companies they are contrasting to venture capital driven unicorns?&lt;/p&gt;
 
 &lt;p&gt;Of course, I can think of lots of candidates (Basecamp, of course), but I’m surprised that the Zebras Unite website doesn’t have a list of &lt;em&gt;examples&lt;/em&gt;.&lt;/p&gt;
-
 </description>
-        <pubDate>Wed, 31 Oct 2018 17:57:03 -0400</pubDate>
+        <pubDate>Wed, 31 Oct 2018 20:05:46 -0400</pubDate>
         <link>https://dehowell.micro.blog/2018/10/31/while-i-heartily.html</link>
-        <guid isPermaLink="true">http://dehowell.micro.blog/2018/10/31/while-i-heartily.html</guid>
+        <guid isPermaLink="true">http://dehowell.micro.blog/2018/11/01/while-i-heartily.html</guid>
       </item>
     
       <item>
