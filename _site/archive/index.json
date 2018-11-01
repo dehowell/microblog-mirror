@@ -7,10 +7,18 @@
 	"items": [
 		
 		{
-			"id": "http://dehowell.micro.blog/2018/10/31/while-i-heartily.html",
+			"id": "http://dehowell.micro.blog/2018/11/01/i-love-julia.html",
+	      	
+			"content_text": "I love Julia Evans’ 2018 Deconstruct talk “build impossible programs”,...",
+			"date_published": "2018-11-01T15:37:57-04:00",
+			"url": "https://dehowell.micro.blog/2018/11/01/i-love-julia.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/11/01/while-i-heartily.html",
 	      	
 			"content_text": "While I heartily endorse the (apparently) radical proposition that a...",
-			"date_published": "2018-10-31T17:57:03-04:00",
+			"date_published": "2018-10-31T20:05:46-04:00",
 			"url": "https://dehowell.micro.blog/2018/10/31/while-i-heartily.html"
 		},
 		
