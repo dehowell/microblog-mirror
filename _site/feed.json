@@ -7,10 +7,18 @@
 	"items": [
 		
 		{
-			"id": "http://dehowell.micro.blog/2018/10/31/while-i-heartily.html",
+			"id": "http://dehowell.micro.blog/2018/11/01/i-love-julia.html",
 	      	
-			"content_html": "<p>While I heartily endorse the (apparently) radical proposition that a business should focus its effort on <em>earning profit directly from its product</em> rather than from vague gambles on side-effects of future adoption, the <a href=\"[medium.com/@sexandst...](https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96)\">Zebras Unite manifesto</a> leaves me wondering where are the “zebra” companies they are contrasting to venture capital driven unicorns?</p>\n\n<p>Of course, I can think of lots of candidates (Basecamp, of course), but I’m surprised that the Zebras Unite website doesn’t have a list of <em>examples</em>.</p>\n\n",
-			"date_published": "2018-10-31T17:57:03-04:00",
+			"content_html": "<p>I love Julia Evans’ 2018 Deconstruct talk <a href=\"https://www.deconstructconf.com/2018/julia-evans-build-impossible-programs\">“build impossible programs”</a>, where she tells the story of carving out time to build her Ruby profiler – despite lacking experience in Ruby internals, systems programming, and not working on nights and weekends. Along the way, she learned how to code in Rust, how to compile and unit test against a wide variety of Ruby versions, and how to carve out time for ambitious work using sabbaticals and fellowships.</p>\n\n<p>Julia is one of my heroes, for her tremendous enthusiasm and gumption. She tackles hard problems in a spirit of chaotic fun and turns her learning into art and inspiration for others.</p>\n",
+			"date_published": "2018-11-01T15:37:57-04:00",
+			"url": "https://dehowell.micro.blog/2018/11/01/i-love-julia.html"
+		},
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/11/01/while-i-heartily.html",
+	      	
+			"content_html": "<p>While I heartily endorse the (apparently) radical proposition that a business should focus its effort on <em>earning profit directly from its product</em> rather than from vague gambles on side-effects of future adoption, the <a href=\"https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96\">Zebras Unite manifesto</a> leaves me wondering where are the “zebra” companies they are contrasting to venture capital driven unicorns?</p>\n\n<p>Of course, I can think of lots of candidates (Basecamp, of course), but I’m surprised that the Zebras Unite website doesn’t have a list of <em>examples</em>.</p>\n",
+			"date_published": "2018-10-31T20:05:46-04:00",
 			"url": "https://dehowell.micro.blog/2018/10/31/while-i-heartily.html"
 		},
 		
@@ -202,14 +210,6 @@
 			"content_html": "<p>I was interviewed for (but not quoted in) a <a href=\"https://www.wsj.com/articles/stressed-type-as-are-turning-meditation-into-a-competitive-sport-1528814126\">WSJ article about people who strive to maintain daily meditation streaks</a>. I don’t fit the narrative of “nerds missing the point of meditation”, so I’m pleased to have been left out.</p>\n",
 			"date_published": "2018-06-13T05:35:17-04:00",
 			"url": "https://dehowell.micro.blog/2018/06/13/i-was-interviewed.html"
-		},
-		
-		{
-			"id": "http://dehowell.micro.blog/2018/06/01/im-feeling-torn.html",
-	      	
-			"content_html": "<p>I’m feeling torn between micro.blog and Mastodon as a Twitter alternative. This is a nice, sunny place, but Mastodon feels like it might pick up more of the surreal humor culture of Twitter.</p>\n\n<p>Between Slack, Discourse, Micro.blog, and Mastodon, my social networks are fragmenting.</p>\n",
-			"date_published": "2018-05-31T20:39:08-04:00",
-			"url": "https://dehowell.micro.blog/2018/05/31/im-feeling-torn.html"
 		}
 		
 	]
