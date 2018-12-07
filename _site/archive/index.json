@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://dehowell.micro.blog/2018/12/07/john-nersts-i.html",
+	      	
+			"content_text": "John Nerst’s “I, LPC” describes how it’s perfectly possible to...",
+			"date_published": "2018-12-07T16:29:07-05:00",
+			"url": "https://dehowell.micro.blog/2018/12/07/john-nersts-i.html"
+		},
+		
+		{
 			"id": "http://dehowell.micro.blog/2018/11/01/i-love-julia.html",
 	      	
 			"content_text": "I love Julia Evans’ 2018 Deconstruct talk “build impossible programs”,...",
