@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-04 12:07:53 -0400
+photo: 
+date: 2018-07-04 11:07:53 -0500
 guid: http://dehowell.micro.blog/2018/07/04/my-independence-day.html
 ---
 My Independence Day plans:
