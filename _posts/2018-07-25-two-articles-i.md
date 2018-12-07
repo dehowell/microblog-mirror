@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-25 19:06:50 -0400
+photo: 
+date: 2018-07-25 18:06:50 -0500
 guid: http://dehowell.micro.blog/2018/07/25/two-articles-i.html
 ---
 Two articles I read today have me thinking about how a 9-5 job disrupts valuable human rhythms:
