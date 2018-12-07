@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-08 08:12:51 -0400
+photo: 
+date: 2018-07-08 07:12:51 -0500
 guid: http://dehowell.micro.blog/2018/07/08/for-your-sunday.html
 ---
 For your Sunday, set aside 25 minutes and [watch/listen to "Just Ancient Loops"](
