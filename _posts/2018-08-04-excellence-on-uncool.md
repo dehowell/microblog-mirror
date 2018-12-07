@@ -3,7 +3,8 @@ layout: post
 title: "Excellence on Uncool Hardware"
 microblog: false
 audio: 
-date: 2018-08-04 06:04:46 -0400
+photo: 
+date: 2018-08-04 05:04:46 -0500
 guid: http://dehowell.micro.blog/2018/08/04/excellence-on-uncool.html
 ---
 What Nick Heer dubs ["The Bullshit Web"](https://pxlnv.com/blog/bullshit-web/) is already intolerable on carefullly-managed, developer class hardware. The web is barely functional on low-end machines. Try going to Staples and browsing the Dell website on a $300 laptop -- it's eye-opening.
