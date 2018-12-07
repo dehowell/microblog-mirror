@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-17 06:44:09 -0400
+photo: http://dehowell.micro.blog/uploads/2018/ff2eed5b6b.jpg
+date: 2018-05-17 05:44:09 -0500
 guid: http://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html
 ---
 I love @robinsloan's [take on the game Fortnite & taking a chance on cooperation in a zero-sum space](theatln.tc/2KaKxIQ).
