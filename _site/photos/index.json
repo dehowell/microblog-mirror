@@ -1,0 +1,122 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "David Howell",
+	"icon": "https://micro.blog/dehowell/avatar.jpg",
+	"home_page_url": "https://dehowell.micro.blog/",
+	"feed_url": "https://dehowell.micro.blog/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://dehowell.micro.blog/2018/08/05/lesson-also-not.html",
+			
+			"content_text": "<p>Lesson also not learned in 2018. 📚</p>\n\n<p><em>The Sciences of the Artificial</em>, Herbert Simon.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/0b099beda7.jpg\" width=\"600\" height=\"253\" /></p>\n",
+			"date_published": "2018-08-05T15:33:22-04:00",
+			"url": "https://dehowell.micro.blog/2018/08/05/lesson-also-not.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/0b099beda7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/0b099beda7.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/08/02/i-think-its.html",
+			
+			"content_text": "<p>I think it’s time, on this visit to my parents house, to admit that reading these Reader’s Digest summaries in the bathroom as a teenager is probably my biggest intellectual influence.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/03d3eec51c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-02T08:32:59-04:00",
+			"url": "https://dehowell.micro.blog/2018/08/02/i-think-its.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/03d3eec51c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/03d3eec51c.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/07/21/i-came-across.html",
+			
+			"content_text": "<p>I came across <a href=\"https://micro.blog/ayjay\">@ayjay</a>’s post <a href=\"http://text-patterns.thenewatlantis.com/2017/06/in-responsibilities-begin-dreams.html\">“in responsibility begin dreams”</a>, which earned a spot on the cork board by my desk.</p>\n\n<blockquote>\n  <p>Everything has been tried and found wanting, and found difficult and left untried. This is the human condition.</p>\n</blockquote>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/13d3360191.jpg\" width=\"600\" height=\"364\" /></p>\n",
+			"date_published": "2018-07-21T07:45:10-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/21/i-came-across.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/13d3360191.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/13d3360191.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/07/15/i-consolidated-my.html",
+			
+			"content_text": "<p>I consolidated my unread books on one shelf, <a href=\"https://fs.blog/2013/06/the-antilibrary/\">per Farnam Street</a>. Most of these were acquired by impulse - now it’s time to stew on the whole thing and see if I can retcon a theme. 📚</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/be4300c2a5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-15T06:33:20-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/15/i-consolidated-my.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/be4300c2a5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/be4300c2a5.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/07/08/maybe-mechanical-keyboard.html",
+			
+			"content_text": "<p>Maybe <a href=\"https://www.massdrop.com/buy/vortex-poker-iii-compact-keyboard\">mechanical keyboard fans</a> just need to work on their typing skills a little?</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/ef86414356.jpg\" width=\"600\" height=\"124\" /></p>\n",
+			"date_published": "2018-07-08T09:26:33-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/08/maybe-mechanical-keyboard.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/ef86414356.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/ef86414356.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/07/04/tell-it-to.html",
+			
+			"title": "Tell It To Your Robot Bird Friend",
+			
+			"content_text": "<p><a href=\"http://dehowell.micro.blog/uploads/2018/3ebcbaf86a.jpg\"><img src=\"http://dehowell.micro.blog/uploads/2018/3ebcbaf86a.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>My son calls our grill his “robot bird friend”. If I squint, the shelves do resemble wings. Either way, what an awesome phrase.</p>\n\n",
+			"date_published": "2018-07-04T17:24:20-04:00",
+			"url": "https://dehowell.micro.blog/2018/07/04/tell-it-to.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/3ebcbaf86a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/3ebcbaf86a.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/05/24/thank-you-for.html",
+			
+			"content_text": "<p>Thank you for <a href=\"https://medium.com/@austinkleon/how-to-keep-going-c185496fd295\">“How to keep going”, Austin Kleon</a>… just what I needed this morning.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/2482b78054.jpg\" width=\"600\" height=\"492\" /></p>\n",
+			"date_published": "2018-05-24T06:06:30-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/24/thank-you-for.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/2482b78054.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/2482b78054.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/05/21/im-making-an.html",
+			
+			"content_text": "<p>I’m making an Electron app to visualize the network structure of my Evernote corpus. It is not as interesting a graph as I had hoped!</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/5546dea8f0.jpg\" width=\"600\" height=\"480\" /></p>\n",
+			"date_published": "2018-05-20T20:56:01-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/20/im-making-an.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/5546dea8f0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/5546dea8f0.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html",
+			
+			"content_text": "<p>I love @robinsloan’s <a href=\"theatln.tc/2KaKxIQ\">take on the game Fortnite &amp; taking a chance on cooperation in a zero-sum space</a>.</p>\n\n<p>Reminds me of Cory Doctorow’s <a href=\"bit.ly/2rP9PVl\">“Weaponized Narrative”</a>: a gesture of cooperation opens a counternarrative to the battle royale.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/ff2eed5b6b.jpg\" width=\"433\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-17T06:44:09-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/17/i-love-robinsloans.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/ff2eed5b6b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/ff2eed5b6b.jpg"
+			}
+		},
+		{
+			"id": "http://dehowell.micro.blog/2018/05/05/software-developers-learn.html",
+			
+			"content_text": "<p>Software developers learn to navigate by <em>aesthetics</em> as a proxy for quality, but if we optimize for aesthetics too early, we kill our throughput of learning. Embrace ugly scaffolding where it de-risks experimentation.</p>\n\n<p><img src=\"http://dehowell.micro.blog/uploads/2018/f8bdd1e7e7.jpg\" width=\"600\" height=\"159\" /></p>\n",
+			"date_published": "2018-05-05T05:31:45-04:00",
+			"url": "https://dehowell.micro.blog/2018/05/05/software-developers-learn.html",
+			"image": "http://dehowell.micro.blog/uploads/2018/f8bdd1e7e7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://dehowell.micro.blog/uploads/2018/f8bdd1e7e7.jpg"
+			}
+		}
+	]
+}
